@@ -21,9 +21,22 @@ A composite index of structural power across **831 U.S. occupations**, used to m
 
 → [Project page](https://github.com/occupational-power)
 
+---
+
+## Personal projects
+
+### 🔤 Scrabble AI
+
+A Scrabble engine that finds every legal move on the board and ranks them with a neural network trained by self-play.
+
+- **Move generation:** the dictionary is compiled into a GADDAG, which lets the solver list every legal play for a rack, blanks included, in one pass.
+- **Move ranking:** a hybrid CNN + MLP network in PyTorch predicts each move's score margin for the rest of the game, then a one-step expectiminimax lookahead over possible opponent racks refines the top picks.
+- **Training:** distributed self-play on a CPU cluster. The final model wins 55–65% of games against a greedy player that always takes the highest-scoring move.
+
+→ [Repo](https://github.com/kam-rab/Scrabble-AI)
+
 <!--
-PERSONAL PROJECTS (add later): restore a "## Personal projects" section here.
-Card template:
+Card template for more personal projects:
 
 ### <emoji> <Project name>
 
