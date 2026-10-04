@@ -2,7 +2,7 @@
 
 I'm an Economics major at Northwestern University ('27) with minors in Artificial Intelligence, Mathematics, and Legal Studies. I code for research, and I've also been working on personal projects, for fun, since high school! Below you can find some of my projects. I particularly love working on AI... both analyzing its impact on the world, and creating it myself!
 
-📫 [kamrabizadeh@gmail.com](mailto:kamrabizadeh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kameron-rabizadeh/)
+[kamrabizadeh@gmail.com](mailto:kamrabizadeh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kameron-rabizadeh/)
 <!-- Add the OPI website here or on the OPI card once it's live. -->
 
 ---
