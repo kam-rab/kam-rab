@@ -35,6 +35,16 @@ A Scrabble engine that finds every legal move on the board and ranks them with a
 
 → [Repo](https://github.com/kam-rab/Scrabble-AI)
 
+### 🐍 Snake Bot
+
+A bot that beats the Google snake game by reading the screen and sending its own keypresses.
+
+- **Strategy:** follows a Hamiltonian path that visits every tile, and uses A* to take safe shortcuts to the apple.
+- **Vision:** captures the screen to find the board, the apple, and the snake's length, then plays in real time.
+- **Background:** started in 2021 as a reinforcement learning project. I switched to path planning after the RL model proved slow to train and worse at actually winning.
+
+→ [Repo](https://github.com/kam-rab/snake-bot)
+
 <!--
 Card template for more personal projects:
 
