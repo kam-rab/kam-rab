@@ -9,7 +9,7 @@ I'm an Economics major at Northwestern University ('27) with minors in Artificia
 
 ## Research
 
-### 📊 Occupational Power Index (OPI)
+### Occupational Power Index (OPI)
 
 A composite index of structural power across **831 U.S. occupations**, used to map who is protected, and who is exposed, as AI reshapes work.
 
@@ -25,7 +25,7 @@ A composite index of structural power across **831 U.S. occupations**, used to m
 
 ## Personal projects
 
-### 🔤 Scrabble AI
+### Scrabble AI
 
 A Scrabble engine that finds every legal move on the board and ranks them with a neural network trained by self-play.
 
@@ -35,7 +35,7 @@ A Scrabble engine that finds every legal move on the board and ranks them with a
 
 → [Repo](https://github.com/kam-rab/Scrabble-AI)
 
-### 🐍 Snake Bot
+### Snake Bot
 
 A bot that beats the Google snake game by reading the screen and sending its own keypresses.
 
@@ -48,7 +48,7 @@ A bot that beats the Google snake game by reading the screen and sending its own
 <!--
 Card template for more personal projects:
 
-### <emoji> <Project name>
+### <Project name>
 
 <One-line summary.>
 
